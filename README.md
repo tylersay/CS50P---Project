@@ -1,7 +1,16 @@
 # CS50P Project - Building a Reddit Bot
-A software bot is a program that can interact with websites autonomously.
-This bot runs in the background, monitoring subreddit(s), and posts reply to it.
+This is my project for  [CS50P (2022) Harvard OpenCourseWare.](https://cs50.harvard.edu/python/2022/). Shortcut to [project requirements here](https://cs50.harvard.edu/python/2022/project/).<br> 
+Also, look at [my other CS50P repo](https://github.com/tylersay/CS50P) for the coursework, and my take on the problem sets.
+<br><br>
+For this project, I made a reddit bot that monitors Reddit, and post replies to reddit submissions.
+
 #### [Click here for 3min video demo](https://youtu.be/TMAgoZ9I5Ts)
+<br><br>
+## Technologies Used
+#### Python
+This is an obvious one. Python.
+#### PRAW library
+[Python Reddit API Wrapper ("PRAW")](https://praw.readthedocs.io/en/stable/index.html) is the main library, the engine that is driving our project. I stand on the shoulder of this giant, to ~~troll~~ automate replies to reddit.
 <br><br>
 #### WARNING!!!
 Reddit, like all websites, has [**rules for scraping**](https://github.com/reddit-archive/reddit/wiki/API). <br><br>
@@ -13,11 +22,7 @@ Two of the more pertinent ones are:
 
 <br>
 
-## Technologies Used
-#### Python
-This is an obvious one. Python.
-#### PRAW library
-[Python Reddit API Wrapper ("PRAW")](https://praw.readthedocs.io/en/stable/index.html) is the main library, the engine that is driving our project. I stand on the shoulder of this giant, to ~~troll~~ automate replies to reddit.
+
 <br><br>
 ## After Action Review
 #### What happened:
