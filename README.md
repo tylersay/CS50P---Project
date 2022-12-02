@@ -1,6 +1,7 @@
 # CS50P Project - Building a Reddit Bot
 
-My CS50 Python [certifcate ](https://cs50.harvard.edu/certificates/d8d2d726-c0a4-4606-a939-44beed8d0eec)
+![Tyler's CS50 Python certifcate.](https://certificates.cs50.io/d8d2d726-c0a4-4606-a939-44beed8d0eec.png?size=letter)
+
 <br><br>
 This is my project for  [CS50P (2022) Harvard OpenCourseWare](https://cs50.harvard.edu/python/2022/), check out what's required to acheive the certificate. <br> 
 Also, look at [my other CS50P repo](https://github.com/tylersay/CS50P) for the coursework, and my take on the problem sets.
