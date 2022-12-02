@@ -1,10 +1,16 @@
 # CS50P Project - Building a Reddit Bot
 
-![Tylers's CS50 Python certifcate.](https://certificates.cs50.io/d8d2d726-c0a4-4606-a939-44beed8d0eec.png?size=letter "Tyler's cs50p cert")
-<br><br>
 This is my project for  [CS50P (2022) Harvard OpenCourseWare](https://cs50.harvard.edu/python/2022/), check out what's required to acheive the certificate. <br> 
+(submit and receive a score of at least 70% on each of this course’s problems as well as its final project) <br><br>
 Also, look at [my other CS50P repo](https://github.com/tylersay/CS50P) for the coursework, and my take on the problem sets.
 <br><br>
+
+![Tylers's CS50 Python certifcate.](https://certificates.cs50.io/d8d2d726-c0a4-4606-a939-44beed8d0eec.png?size=letter "Tyler's cs50p cert")
+Link to official cert [here](https://cs50.harvard.edu/certificates/d8d2d726-c0a4-4606-a939-44beed8d0eec)
+<br><br>
+
+
+
 For this project, I made a reddit bot that monitors Reddit, and post replies to reddit submissions.
 ### [Click here for 3min video demo](https://youtu.be/TMAgoZ9I5Ts)
 <br><br>
